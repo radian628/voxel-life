@@ -80,10 +80,10 @@ function voxelLifeTitle() {
 
 function credits1() {
     ctx.font = "Bold 48px Arial";
-    ctx.fillText("Concept - Adrian Baker", canvas.width / 2, canvas.height / 2 -90);
-    ctx.fillText("Animation - Adrian Baker", canvas.width / 2, canvas.height / 2 - 10);
-    ctx.fillText("Audio - Adrian Baker", canvas.width / 2, canvas.height / 2 + 70);
-    ctx.fillText("Programming - Adrian Baker", canvas.width / 2, canvas.height / 2 + 150);
+    ctx.fillText("Concept - Radian628", canvas.width / 2, canvas.height / 2 -90);
+    ctx.fillText("Animation - Radian628", canvas.width / 2, canvas.height / 2 - 10);
+    ctx.fillText("Audio - Radian628", canvas.width / 2, canvas.height / 2 + 70);
+    ctx.fillText("Programming - Radian628", canvas.width / 2, canvas.height / 2 + 150);
 }
 
 function credits2() {
