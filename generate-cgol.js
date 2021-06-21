@@ -9,6 +9,7 @@ function totalisticLifeRule(birth, survive) {
         this.birthDict[index] = true;
     });
 
+    
     this.surviveDict = new Array(27).fill(false);
     this.survive.forEach(index => {
         this.surviveDict[index] = true;

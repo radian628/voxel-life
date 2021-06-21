@@ -8,6 +8,7 @@ class GLFilter {
         this.vert = gl.createShader(gl.VERTEX_SHADER);
         this.frag = gl.createShader(gl.FRAGMENT_SHADER);
 
+        
         gl.shaderSource(this.vert, `
         attribute vec3 coordinates;
         varying vec2 vTexCoords;

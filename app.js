@@ -1,5 +1,6 @@
 const cgolFilter = new GLFilter(`
 
+
 precision mediump float;
 uniform sampler2D uTexture;
 varying vec2 vTexCoords;
